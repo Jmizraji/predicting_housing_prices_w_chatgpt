@@ -10,8 +10,7 @@ __[Link to the full conversation (visuals are excluded)](https://chat.openai.com
 - ChatGPT: RMSE - \$14,148.48 and a coefficient of determination (R² score) of 0.965
 - Old Project: RMSE - \$29\,000.98 and a coefficient of determination (R² score) of 0.897
 
-*RMSE explains on average, how far the predictions are away from the actual values of sale price. 
-R² measures how well the chosen factors (like year built, sq ft) predict the outcome we're interested in (sale price)*
+(RMSE explains on average, how far the predictions are away from the actual values.)
 
 2. Exploratory analysis is a breeze, speeding up any data professional's time to insights
 
